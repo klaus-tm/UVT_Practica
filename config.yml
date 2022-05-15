@@ -1,0 +1,21 @@
+baseURL: ''
+languageCode: en-us
+title: UVT FMI
+theme: theme
+params:
+    profileMode:
+        enabled: true
+        imageUrl: "FMI.png" # optional
+        imageTitle: "Facultatea de Matematica si Informatiaca" # optional
+        imageWidth: 200 # custom size
+        imageHeight: 200 # custom size
+        title: "Proiecte colective. Stagii de practică. Lucrări de licență." # optional default will be site title
+        subtitle: "Pagină dedicată studenților de la Facultatea de Matematică - Informatică, specializările de Informatică, Universitatea de Vest din Timișoara"
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Continut
+      url: /categories/
+      weight: 1
