@@ -2,6 +2,10 @@ baseURL: ''
 languageCode: en-us
 title: UVT FMI
 theme: theme
+taxonomies:
+  tag: tags
+  category: categories
+  content: contents
 params:
     profileMode:
         enabled: true
@@ -15,7 +19,7 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Continut
-      url: /categories/
+    - identifier: contents
+      name: Contents
+      url: /contents/
       weight: 1

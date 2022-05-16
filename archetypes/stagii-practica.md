@@ -2,5 +2,5 @@
 title: "{{ .Name | title }}"
 date: {{ .Date }}
 draft: false
-categories: ["Stagii practică"]
+contents: ["Stagii practică"]
 ---
