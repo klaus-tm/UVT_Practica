@@ -9,11 +9,11 @@ taxonomies:
 params:
     profileMode:
         enabled: true
-        imageUrl: "FMI.png" # optional
-        imageTitle: "Facultatea de Matematica si Informatiaca" # optional
-        imageWidth: 200 # custom size
-        imageHeight: 200 # custom size
-        title: "Proiecte colective. Stagii de practică. Lucrări de licență." # optional default will be site title
+        imageUrl: "FMI.png"
+        imageTitle: "Facultatea de Matematică si Informatică"
+        imageWidth: 200
+        imageHeight: 200
+        title: "Proiecte colective. Stagii de practică. Lucrări de licență."
         subtitle: "Pagină dedicată studenților de la Facultatea de Matematică - Informatică, specializările de Informatică, Universitatea de Vest din Timișoara"
 
 
