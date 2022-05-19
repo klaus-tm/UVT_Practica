@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://uvt-fmi.netlify.app/lucrari-licenta/2021-2022/</loc>
+    <loc>https://uvt-fmi.netlify.app/contents/</loc>
     <lastmod>2022-01-01T18:47:20+03:00</lastmod>
   </url><url>
-    <loc>https://uvt-fmi.netlify.app/contents/</loc>
+    <loc>https://uvt-fmi.netlify.app/lucrari-licenta/2021-2022/</loc>
     <lastmod>2022-01-01T18:47:20+03:00</lastmod>
   </url><url>
     <loc>https://uvt-fmi.netlify.app/contents/lucr%C4%83ri-licen%C8%9B%C4%83/</loc>
@@ -63,6 +63,8 @@
     <lastmod>2017-01-01T13:22:30+03:00</lastmod>
   </url><url>
     <loc>https://uvt-fmi.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://uvt-fmi.netlify.app/search/</loc>
   </url><url>
     <loc>https://uvt-fmi.netlify.app/tags/</loc>
   </url>

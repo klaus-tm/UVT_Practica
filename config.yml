@@ -2,10 +2,12 @@ baseURL: 'https://uvt-fmi.netlify.app/'
 languageCode: en-us
 title: UVT FMI
 theme: theme
+
 taxonomies:
   tag: tags
   category: categories
   content: contents
+
 params:
     profileMode:
         enabled: true
@@ -16,10 +18,19 @@ params:
         title: "Proiecte colective. Stagii de practică. Lucrări de licență."
         subtitle: "Pagină dedicată studenților de la Facultatea de Matematică - Informatică, specializările de Informatică, Universitatea de Vest din Timișoara"
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
 
 menu:
   main:
     - identifier: contents
       name: Contents
       url: /contents/
+      weight: 1
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 1
