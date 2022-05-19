@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Contents on UVT FMI</title>
-    <link>/contents/</link>
+    <link>https://uvt-fmi.netlify.app/contents/</link>
     <description>Recent content in Contents on UVT FMI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2022 18:47:20 +0300</lastBuildDate><atom:link href="/contents/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 18:47:20 +0300</lastBuildDate><atom:link href="https://uvt-fmi.netlify.app/contents/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lucrări licență</title>
-      <link>/contents/lucr%C4%83ri-licen%C8%9B%C4%83/</link>
+      <link>https://uvt-fmi.netlify.app/contents/lucr%C4%83ri-licen%C8%9B%C4%83/</link>
       <pubDate>Sat, 01 Jan 2022 18:47:20 +0300</pubDate>
       
-      <guid>/contents/lucr%C4%83ri-licen%C8%9B%C4%83/</guid>
+      <guid>https://uvt-fmi.netlify.app/contents/lucr%C4%83ri-licen%C8%9B%C4%83/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stagii practică</title>
-      <link>/contents/stagii-practic%C4%83/</link>
+      <link>https://uvt-fmi.netlify.app/contents/stagii-practic%C4%83/</link>
       <pubDate>Sat, 01 Jan 2022 18:04:17 +0300</pubDate>
       
-      <guid>/contents/stagii-practic%C4%83/</guid>
+      <guid>https://uvt-fmi.netlify.app/contents/stagii-practic%C4%83/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proiecte colective</title>
-      <link>/contents/proiecte-colective/</link>
+      <link>https://uvt-fmi.netlify.app/contents/proiecte-colective/</link>
       <pubDate>Fri, 01 Jan 2021 18:55:32 +0300</pubDate>
       
-      <guid>/contents/proiecte-colective/</guid>
+      <guid>https://uvt-fmi.netlify.app/contents/proiecte-colective/</guid>
       <description></description>
     </item>
     
