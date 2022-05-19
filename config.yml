@@ -17,6 +17,8 @@ params:
         imageHeight: 200
         title: "Proiecte colective. Stagii de practică. Lucrări de licență."
         subtitle: "Pagină dedicată studenților de la Facultatea de Matematică - Informatică, specializările de Informatică, Universitatea de Vest din Timișoara"
+    assets:
+        favicon: FMI.png
 
 outputs:
     home:
