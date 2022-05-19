@@ -5,5 +5,5 @@ draft: false
 cover:
       image: caciau.jpg
       caption: CACIAU TUTUROR
-
 ---
+# Proiect la EWD realizat de Claudiu-Iulian Cercel si Robert-Cosmin Vlasan
