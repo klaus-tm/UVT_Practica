@@ -21,10 +21,10 @@
                     {{- $img = $img.Resize "150x150" }}
                 {{- end }}
             {{- end }}
-            <img class="animate__img animate__fadeInDown" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}"
+            <img class="animate__img animate__fadeIn" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}"
                 height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- else }}
-        <img class="animate__img animate__fadeInDown" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}"
+        <img class="animate__img animate__fadeIn" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}"
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
         {{- end }}
